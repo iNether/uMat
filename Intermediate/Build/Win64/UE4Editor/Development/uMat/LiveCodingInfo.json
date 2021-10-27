@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.uMat.cpp.obj": [
+			"uMat.cpp.obj",
+			"uMatCommands.cpp.obj",
+			"uMatStyle.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-uMat-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Windows\Documents\Unreal Projects\uMat_plugin\Intermediate\Build\Win64\uMat_pluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\Windows\Documents\Unreal Projects\uMat_plugin\Plugins\uMat\Intermediate\Build\Win64\UE4Editor\Development\uMat\Module.uMat.cpp.obj"
+"D:\Windows\Documents\Unreal Projects\uMat_plugin\Plugins\uMat\Intermediate\Build\Win64\UE4Editor\Development\uMat\Default.rc2.res"
+/OUT:"D:\Windows\Documents\Unreal Projects\uMat_plugin\Plugins\uMat\Intermediate\Build\Win64\UE4Editor\Development\uMat\UE4Editor-uMat-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_uMat
